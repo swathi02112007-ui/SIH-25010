@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:24.09.25
+## Register Number:25008251
+## Name:SWATHI P N
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,37 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+1. Small and marginal farmers (owning less than 2 hectares of land).
+
+2. Farmers in remote or resource-constrained areas.
+
+3. Low-literacy, tech-novice users needing localized, simple solutions
+
+## Diagram
+![alt text](<Screenshot 2025-09-24 144157.png>)
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+1. Supports multiple Indian languages and dialects.
+
+2. Voice support for illiterate or semi-literate farmers.
+
+3. Offline data caching in mobile apps with sync-on-connection.
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+1. Availability of mature technologies: AI/ML, mobile apps, cloud computing.
 
+2. Existing weather, soil, and market APIs for integration.
+
+3. Affordable smartphones and expanding mobile internet penetration
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+1. Early warnings on pests, diseases, and weather events
 
+2. rket insights to improve crop sales and profits
+
+3. Multilingual and voice-based support for easy access
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+1. IoT integration with sensors and mobile tech provides real-time, personalized farming advice.
+
+2. Federated learning protects farmer data privacy by enabling local AI model training on devices.
+
+3. Deep learning and satellite imagery facilitate accurate mapping of small farms and yield prediction.
